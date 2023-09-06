@@ -1,6 +1,6 @@
 # PokeDev 🎮
 
-## [Clique aqui para acessar o App](https://buscador-cep-httpjef.vercel.app)
+## [Clique aqui para acessar o App](https://poke-dev-snowy.vercel.app)
 
 Uma PokeDev desenvolvido com JavaScript puro.
 
